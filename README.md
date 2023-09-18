@@ -2,7 +2,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your Website Title</title>
+    <title>Gardenia</title>
 </head>
 <body>
     <!-- JavaScript to load the chatbot asynchronously -->
